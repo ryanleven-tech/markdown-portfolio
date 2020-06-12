@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[Facebook](https://www.facebook.com/rleven)
+[Twitter](https://twitter.com/ryanleven)
+[GitHub](https://github.com/ryanleven-tech)
